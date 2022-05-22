@@ -13,3 +13,5 @@ time complexity from O(page nos) to O(Index contents).
 I am using a ANVIL user interface to display the message generated from chatbot. This chatbot reads these Loan details from the given pdf file using PyPdf4. the sample loan dicument is uploaded here in this repo
 
 Output are uploaded as .png files in this repo.
+
+I have connected this colab file to my google drive to access the loan doc
