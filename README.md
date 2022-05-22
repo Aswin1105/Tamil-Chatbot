@@ -15,3 +15,7 @@ I am using a ANVIL user interface to display the message generated from chatbot.
 Output are uploaded as .png files in this repo.
 
 I have connected this colab file to my google drive to access the loan doc
+
+
+*** the error in the last block of code is due to keyboard interrupt. This commands runs infinite times to serve the anvil clients, whenever they reach the server( google colab for the function connected).***
+Thank you for viewing my project
